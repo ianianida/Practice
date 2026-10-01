@@ -1,0 +1,8 @@
+{
+  "name": "ScreenCal AI",
+  "description": "실시간 화면 캡처 기반 AI 일정 자동 추출 및 스마트 캘린더 등록 서비스",
+  "requestFramePermissions": [
+    "display-capture"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
