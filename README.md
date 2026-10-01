@@ -2,6 +2,10 @@
 
 Vite · React · TypeScript로 만든 화면 기반 일정 추출 앱입니다.
 
+Production: https://practice-three-coral.vercel.app
+
+배포 관리: https://vercel.com/ian19-6602/practice
+
 ## 로컬 실행
 
 Node.js 22.12 이상(22.x)과 npm을 사용합니다.

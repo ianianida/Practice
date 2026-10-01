@@ -193,4 +193,3 @@ ${additionalPrompt ? `추가 요청 사항: ${additionalPrompt}` : ''}
 
 
 export default app;
-
